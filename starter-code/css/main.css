@@ -4,9 +4,10 @@ html{
     align-items: center;
 }
 
-h4 a{
-    text-align: right;
+h4{
     color:#ffd24d;
+    text-align: right;
+
 }
 
 h1, h2, h3{
@@ -35,6 +36,7 @@ h3{
 a{
     text-decoration: none;
     margin-bottom: 5px;
+    color:#ffd24d;
 }
 
 header nav a{
